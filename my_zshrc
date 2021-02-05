@@ -25,3 +25,6 @@ POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 POWERLEVEL9K_SHORTEN_DELIMITER=".."
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 
+plugins=(
+  git laravel5 symfony2 yarn django
+)
